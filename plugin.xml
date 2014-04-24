@@ -11,7 +11,7 @@
     <!-- android -->
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/cordova/plugins">
-            <plugin name="MbpCameraPlugin"
+            <plugin name="Camera"
                 value="org.schoolsfirstfcu.mobile.plugin.Camera"/>
         </config-file>
        
