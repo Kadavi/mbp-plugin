@@ -17,5 +17,9 @@
        
         <source-file src="src/android/Camera.java"
                 target-dir="src/org/schoolsfirstfcu/mobile/plugin" />
+        <source-file src="src/android/CameraActivity.java"
+                target-dir="src/org/schoolsfirstfcu/mobile/plugin" />
+        <source-file src="src/android/CameraPreview.java"
+                target-dir="src/org/schoolsfirstfcu/mobile/plugin" />
     </platform>
 </plugin>
