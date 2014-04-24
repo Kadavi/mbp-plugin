@@ -6,7 +6,7 @@
 
     <name>MbpCamera</name>
 
-    <asset src="www/mbpcamera.js" target="mbpcamera" />
+    <asset src="www/js/mbpcamera.js" target="mbpcamera.js" />
 
     <!-- android -->
     <platform name="android">
